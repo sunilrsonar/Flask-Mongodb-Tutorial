@@ -116,3 +116,7 @@ pip install -r requirement.txt
 
 Sunil Sonar
 Email : sunil.r.sonar@gmail.com
+
+## License
+
+This project is for educational/demo purposes.
